@@ -28,6 +28,7 @@
 | RszTool | Resource editor/creator. Currently supports `.user`, `.pfb` and `.scn` files  | [GitHub](https://github.com/czastack/RszTool)
 | RE Engine 010 Templates | A collection of 010 Editor binary templates for reading RE Engine file formats  | [GitHub](https://github.com/alphazolam/RE-Engine-010-Templates)
 | Reach for Godot | Godot-based visual scene and rsz data editor for RE Engine games  | [GitHub](https://github.com/kagenocookie/ReachForGodot)
+| REasy | A modding toolkit for RE engine games  | [GitHub](https://github.com/seifhassine/REasy)
 
 ### REFramework Scripts/Tools:
 | Name | Description | Link |
