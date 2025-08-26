@@ -29,6 +29,7 @@
 | RE Engine 010 Templates | A collection of 010 Editor binary templates for reading RE Engine file formats  | [GitHub](https://github.com/alphazolam/RE-Engine-010-Templates)
 | Reach for Godot | Godot-based visual scene and rsz data editor for RE Engine games  | [GitHub](https://github.com/kagenocookie/ReachForGodot)
 | REasy | A modding toolkit for RE engine games  | [GitHub](https://github.com/seifhassine/REasy)
+| REE Content Editor | Graphical tool for editing and partial patching of RE ENGINE resource files | [GitHub](https://github.com/kagenocookie/REE-Content-Editor)
 
 ### REFramework Scripts/Tools:
 | Name | Description | Link |
