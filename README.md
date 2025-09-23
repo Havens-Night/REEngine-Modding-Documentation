@@ -6,6 +6,7 @@
 > 1. [Extracting Game Files](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/Extracting-Game-Files)
 > 1. [Textures](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/Textures)
 > 1. [Models](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/Models)
+> 1. [Troubleshooting](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/Troubleshooting)
 > 1. [ID Lookups](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/ID-Lookups)
 ***
 
@@ -14,7 +15,8 @@
 | --------  | ------------------- | --------------------- |
 | Fluffy Mod Manager | Mod manager that can modify RE Engine's PAK archives to load loose game assets outside of the archive | [Website](https://www.fluffyquack.com/) |
 | RETool | Tool to extract PAK archives and convert textures to/from DDS | [Website](https://www.fluffyquack.com/) |
-| REE.PAK.Tool | Another tool to extract/repack PAK archives, and file lists for games | [GitHub](https://github.com/Ekey/REE.PAK.Tool) |
+| ree-pak-gui | Tool to extract/repack PAK archives, and contains file lists for games | [GitHub](https://github.com/eigeen/ree-pak-gui) |
+| REE.PAK.Tool | Another tool to extract/repack PAK archives, and contains file lists for games | [GitHub](https://github.com/Ekey/REE.PAK.Tool) |
 | REFramework | Scripting platform, modding tool, developer tools for RE Engine games | [GitHub](https://github.com/praydog/REFramework) / [Documentation](https://cursey.github.io/reframework-book/) |
 | RE_MESH-Noesis-Plugin | A plugin for Rich Whitehouse's Noesis to import and export RE Engine Meshes and Textures | [GitHub](https://github.com/alphazolam/fmt_RE_MESH-Noesis-Plugin)
 | RE_RSZ | 010 Editor Binary Template for editing RE Engine game files | [GitHub](https://github.com/alphazolam/RE_RSZ)
