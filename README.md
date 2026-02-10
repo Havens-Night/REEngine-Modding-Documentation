@@ -8,6 +8,7 @@
 > 1. [Models](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/Models)
 > 1. [Troubleshooting](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/Troubleshooting)
 > 1. [ID Lookups](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/ID-Lookups)
+> 1. [Misc Tutorials](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/Misc-Tutorials) 
 ***
 
 ### Tools:
