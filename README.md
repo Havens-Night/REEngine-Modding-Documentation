@@ -8,31 +8,31 @@
 > 1. [Models](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/Models)
 > 1. [Troubleshooting](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/Troubleshooting)
 > 1. [ID Lookups](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/ID-Lookups)
-> 1. [Misc Tutorials](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/Misc-Tutorials) 
+> 1. [Misc Tutorials](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/Misc-Tutorials)
 ***
 
 ### Tools:
 | Name | Description | Link |
 | --------  | ------------------- | --------------------- |
 | Fluffy Mod Manager | Mod manager that can modify RE Engine's PAK archives to load loose game assets outside of the archive | [Website](https://www.fluffyquack.com/) |
-| RETool | Tool to extract PAK archives and convert textures to/from DDS | [Website](https://www.fluffyquack.com/) |
-| ree-pak-gui | Tool to extract/repack PAK archives, and contains file lists for games | [GitHub](https://github.com/eigeen/ree-pak-gui) |
-| REE.PAK.Tool | Another tool to extract/repack PAK archives, and contains file lists for games | [GitHub](https://github.com/Ekey/REE.PAK.Tool) |
 | REFramework | Scripting platform, modding tool, developer tools for RE Engine games | [GitHub](https://github.com/praydog/REFramework) / [Documentation](https://cursey.github.io/reframework-book/) |
-| RE_MESH-Noesis-Plugin | A plugin for Rich Whitehouse's Noesis to import and export RE Engine Meshes and Textures | [GitHub](https://github.com/alphazolam/fmt_RE_MESH-Noesis-Plugin)
-| RE_RSZ | 010 Editor Binary Template for editing RE Engine game files | [GitHub](https://github.com/alphazolam/RE_RSZ)
+| REE Content Editor | Mod development editor tool and file patcher for RE Engine games | [GitHub](https://github.com/kagenocookie/REE-Content-Editor)
 | RE Mesh Editor | Blender addon for importing and exporting RE Engine mesh and mdf2 files natively in Blender | [GitHub](https://github.com/NSACloud/RE-Mesh-Editor)
 | RE Asset Library | Blender addon for easy browsing and extraction of RE Engine game files. | [GitHub](https://github.com/NSACloud/RE-Asset-Library)
 | RE Chain Editor | Blender addon for creating and editing RE Engine physics bone (chain) files | [GitHub](https://github.com/NSACloud/RE-Chain-Editor)
+| REasy | A modding toolkit for RE engine games  | [GitHub](https://github.com/seifhassine/REasy)
+| RE_MESH-Noesis-Plugin | A plugin for Rich Whitehouse's Noesis to import and export RE Engine Meshes and Textures | [GitHub](https://github.com/alphazolam/fmt_RE_MESH-Noesis-Plugin)
+| RE_RSZ | 010 Editor Binary Template for editing RE Engine game files | [GitHub](https://github.com/alphazolam/RE_RSZ)
+| RETool | Tool to extract PAK archives and convert textures to/from DDS | [Website](https://www.fluffyquack.com/) |
+| ree-pak-gui | Tool to extract/repack PAK archives, and contains file lists for games | [GitHub](https://github.com/eigeen/ree-pak-gui) |
+| REE.PAK.Tool | Another tool to extract/repack PAK archives, and contains file lists for games | [GitHub](https://github.com/Ekey/REE.PAK.Tool) |
 | RE Toolbox | Companion Blender addon for RE Mesh Importer. Includes set of tools to make editing RE Engine meshes easier | [GitHub](https://github.com/NSACloud/RE-Toolbox)
 | RE MSG Converter | Able to convert .msg file into txt / json / csv format and back | [GitHub](https://github.com/dtlnor/REMSG_Converter)
 | RE MSG | Tools for editing / researching in any .msg file (Text file) for RE Engine | [GitHub](https://github.com/dtlnor/RE_MSG)
-| MDF Manager | Tool for editing material files RE Engine games | [GitHub](https://github.com/Silvris/MDF-Manager) / [Up-to-date Version](https://github.com/SilverEzredes/MDF-Manager_RE4R)
-| RszTool | Resource editor/creator. Currently supports `.user`, `.pfb` and `.scn` files  | [GitHub](https://github.com/czastack/RszTool)
-| RE Engine 010 Templates | A collection of 010 Editor binary templates for reading RE Engine file formats  | [GitHub](https://github.com/alphazolam/RE-Engine-010-Templates)
 | Reach for Godot | Godot-based visual scene and rsz data editor for RE Engine games  | [GitHub](https://github.com/kagenocookie/ReachForGodot)
-| REasy | A modding toolkit for RE engine games  | [GitHub](https://github.com/seifhassine/REasy)
-| REE Content Editor | Graphical tool for editing and partial patching of RE ENGINE resource files | [GitHub](https://github.com/kagenocookie/REE-Content-Editor)
+| RszTool | Resource editor/creator. Currently supports `.user`, `.pfb` and `.scn` files  | [GitHub](https://github.com/czastack/RszTool)
+| MDF Manager | Tool for editing material files RE Engine games | [GitHub](https://github.com/Silvris/MDF-Manager) / [Up-to-date Version](https://github.com/SilverEzredes/MDF-Manager_RE4R)
+| RE Engine 010 Templates | A collection of 010 Editor binary templates for reading RE Engine file formats  | [GitHub](https://github.com/alphazolam/RE-Engine-010-Templates)
 
 ### REFramework Scripts/Tools:
 | Name | Description | Link |
