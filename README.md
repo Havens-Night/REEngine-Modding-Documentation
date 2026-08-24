@@ -37,7 +37,7 @@
 ### REFramework Scripts/Tools:
 | Name | Description | Link |
 | --------  | ------------------- | --------------------- |
-| EMV Engine | | [GitHub](https://github.com/alphazolam/EMV-Engine)
+| EMV Engine | A mod development assist tool, including a console, runtime method inspector and more | [GitHub](https://github.com/alphazolam/EMV-Engine) / [Up-to-date Version](https://github.com/SilverEzredes/EMV-Engine-SILVER)
 | MMDK | REFramework Moveset Mod Development Kit for Street Fighter 6  | [GitHub](https://github.com/alphazolam/MMDK)
 | RE-BHVT-Editor | Behavior Tree/Finite State Machine editor for RE Engine games  | [GitHub](https://github.com/praydog/RE-BHVT-Editor)
 
